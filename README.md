@@ -12,25 +12,25 @@ A simple **Java console application** to manage workers in an organization. This
 
 ---
 
-## Tech Stack
-- **Language:** Java  
+## 🛠 Tech Stack
+- **Language:** Java   
 - **Core Concepts:** OOP (Classes, Objects, Encapsulation), Collections (List, Map), Control Flow  
 
 ---
 
 ## 📂 Project Structure
-- **Main.java:** Entry point with menu-driven console interface 
-- **Organization.java:** Manages workers list and role counts 
-- **Worker.java:** Represents a worker with name, ID, and role
+- **Main.java:** Entry point with menu-driven console interface   
+- **Organization.java:** Manages workers list and role counts   
+- **Worker.java:** Represents a worker with name, ID, and role  
 
 ---
 
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/worker-management-system.git
-   cd worker-management-system
-2. Compile the Java files:
-   javac Main.java Organization.java Worker.java
-3. Run the program:
-   java Main
+   git clone https://github.com/yourusername/worker-management-system.git  
+   cd worker-management-system  
+2. Compile the Java files:  
+   javac Main.java Organization.java Worker.java  
+3. Run the program:  
+   java Main  
