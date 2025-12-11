@@ -27,10 +27,11 @@ A simple **Java console application** to manage workers in an organization. This
 
 ## 💻 How to Run
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/worker-management-system.git  
-   cd worker-management-system  
+   cd worker-management-system
 2. Compile the Java files:  
-   javac Main.java Organization.java Worker.java  
+   `javac Main.java Organization.java Worker.java  `
+   
 3. Run the program:  
-   java Main  
+  ` java Main  `
