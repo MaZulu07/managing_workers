@@ -30,8 +30,10 @@ A simple **Java console application** to manage workers in an organization. This
    ```
    git clone https://github.com/yourusername/worker-management-system.git  
    cd worker-management-system
-2. Compile the Java files:  
-   `javac Main.java Organization.java Worker.java  `
+2. Compile the Java files:
+   ``` 
+   javac Main.java Organization.java Worker.java  
    
-3. Run the program:  
-  ` java Main  `
+4. Run the program:  
+  ```
+ java Main  
