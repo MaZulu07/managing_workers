@@ -36,4 +36,4 @@ A simple **Java console application** to manage workers in an organization. This
    
 4. Run the program:  
   ```
- java Main  
+  java Main  
